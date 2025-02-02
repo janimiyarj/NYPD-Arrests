@@ -32,13 +32,13 @@ Each record in the dataset includes the following fields:
 ### Inspiration
 The dataset can be used for a variety of research and analysis purposes, such as:
 
-Crime Pattern Analysis: Investigate trends and patterns in criminal activity across different boroughs and precincts of New York City.
-Law Enforcement Strategies: Examine the effectiveness of law enforcement strategies and policies based on arrest data.
-Demographic Studies: Analyze the relationship between demographic factors (such as age, sex, and race of perpetrators) and arrest rates.
-Geospatial Analysis: Utilize the geographic coordinates to map crime incidents and identify hotspots within the city.
-Crime Hotspot Prediction: Develop a machine learning model to predict crime hotspots.
+1. Crime Pattern Analysis: Investigate trends and patterns in criminal activity across different boroughs and precincts of New York City.
+2. Law Enforcement Strategies: Examine the effectiveness of law enforcement strategies and policies based on arrest data.
+3. Demographic Studies: Analyze the relationship between demographic factors (such as age, sex, and race of perpetrators) and arrest rates.
+4. Geospatial Analysis: Utilize the geographic coordinates to map crime incidents and identify hotspots within the city.
+5. Crime Hotspot Prediction: Develop a machine learning model to predict crime hotspots.
 
-
+### Interpretation of the Map
 🔴 Dense red areas = Crime hotspots
 🟡 Light red areas = Some crime but not extreme
 ⚫ No color = Low crime predictions
