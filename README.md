@@ -37,3 +37,8 @@ Law Enforcement Strategies: Examine the effectiveness of law enforcement strateg
 Demographic Studies: Analyze the relationship between demographic factors (such as age, sex, and race of perpetrators) and arrest rates.
 Geospatial Analysis: Utilize the geographic coordinates to map crime incidents and identify hotspots within the city.
 Crime Hotspot Prediction: Develop a machine learning model to predict crime hotspots.
+
+
+🔴 Dense red areas = Crime hotspots
+🟡 Light red areas = Some crime but not extreme
+⚫ No color = Low crime predictions
